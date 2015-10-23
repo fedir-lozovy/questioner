@@ -1,0 +1,24 @@
+{
+  "name": "questioner",
+  "version": "1.0.0",
+  "description": "Question quiz creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fedir-lozovy/questioner"
+  },
+  "keywords": [
+    "question",
+    "data",
+    "visualization"
+  ],
+  "author": "Fedr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedir-lozovy/questioner/issues"
+  },
+  "homepage": "https://github.com/fedir-lozovy/questioner"
+}
